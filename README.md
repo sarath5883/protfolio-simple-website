@@ -23,8 +23,6 @@ Open the index.html file in your browser to view the website.
 Future Enhancements 📈
 Add more sections, such as a project gallery or skills page.
 Improve responsiveness with advanced CSS techniques.
-Add JavaScript for interactive elements.
-Let me know if you'd like me to add or adjust anything!
 
 
 
